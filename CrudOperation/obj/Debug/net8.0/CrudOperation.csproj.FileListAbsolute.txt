@@ -1,0 +1,205 @@
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.Development.json
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.json
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.staticwebassets.runtime.json
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.exe
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.deps.json
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.runtimeconfig.json
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.pdb
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Core.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Identity.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.ClientModel.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.AssemblyReference.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfoInputs.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfo.cs
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.CoreCompileInputs.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.MvcApplicationPartsAssemblyInfo.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cs
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.build.json
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.development.json
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.CrudOperation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.build.CrudOperation.props
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CrudOperation.props
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CrudOperation.props
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\bundle\CrudOperation.styles.css
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\projectbundle\CrudOperation.bundle.scp.css
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOper.3BBD6E1A.Up2Date
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.dll
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\refint\CrudOperation.dll
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.pdb
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.genruntimeconfig.cache
+D:\CrudOperation\CrudOperation\obj\Debug\net8.0\ref\CrudOperation.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.staticwebassets.runtime.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.exe
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.deps.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.runtimeconfig.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.pdb
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.AssemblyReference.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfoInputs.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfo.cs
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cs
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.CrudOperation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.build.CrudOperation.props
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CrudOperation.props
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CrudOperation.props
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\bundle\CrudOperation.styles.css
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\projectbundle\CrudOperation.bundle.scp.css
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOper.3BBD6E1A.Up2Date
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\refint\CrudOperation.dll
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.pdb
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.genruntimeconfig.cache
+C:\Users\patil\Downloads\NimapTask (1)\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\ref\CrudOperation.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.Development.json
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\appsettings.json
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.staticwebassets.runtime.json
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.exe
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.deps.json
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.runtimeconfig.json
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\CrudOperation.pdb
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Core.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Azure.Identity.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.ClientModel.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NimapTask\CrudOperation\CrudOperation\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.AssemblyReference.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfoInputs.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.AssemblyInfo.cs
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.csproj.CoreCompileInputs.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.MvcApplicationPartsAssemblyInfo.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.RazorAssemblyInfo.cs
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.sourcelink.json
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.build.json
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.development.json
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.CrudOperation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.build.CrudOperation.props
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CrudOperation.props
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CrudOperation.props
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\bundle\CrudOperation.styles.css
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\scopedcss\projectbundle\CrudOperation.bundle.scp.css
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOper.3BBD6E1A.Up2Date
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.dll
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\refint\CrudOperation.dll
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.pdb
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\CrudOperation.genruntimeconfig.cache
+D:\NimapTask\CrudOperation\CrudOperation\obj\Debug\net8.0\ref\CrudOperation.dll
